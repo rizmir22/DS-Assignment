@@ -1,6 +1,7 @@
 # DS-Assignment
 
 <b> This assignment provides analytics for PSD data. This contains python files and three word documents for 1 page summary,executive summary and analytical report </b> <br> 
+
 The usage of each python file as follow. <br>
 1. processData.ipynb :- to identify the incomplete data and outliers
 2. Data_Transformation.py :- For removing unnecessary data not included in the analysis <br>
