@@ -9,5 +9,5 @@ The usage of each python file as follow. <br>
 5. Hypothesis_Testing.py:- For doing hypothesis testing using the stats library of scipy <br>
 6. remove_outliers.py:- For removing outliers which are identified by box plot <br>
 7. Confidence_Level.py :- For calculating confidence level <br>
-8. visualization.py:- This is for visualization. Here we use the matplotlib library and seaborn module 
-
+8. visualization.py:- This is for visualization. Here we use the matplotlib library and seaborn module
+9. data_analysis.ipynb : file used for analysis purpose
